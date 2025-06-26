@@ -1,4 +1,4 @@
-# 🐍 Snake Evolution - Educational Math Game
+# 🐍 Snake Evolution - Educational +Fun Game
 
 **Learn Math While Playing the Classic Snake Game!**
 
